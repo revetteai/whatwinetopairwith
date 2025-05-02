@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://whattoeatwith.netlify.app/sitemap.xml
