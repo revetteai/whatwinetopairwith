@@ -7,7 +7,7 @@ layout: base.njk
 
 **Effective Date:** April 22, 2025
 
-At *What To Eat With*, your privacy is important to us. This page outlines the types of information we may collect and how it may be used.
+At *What Wine to Pair With*, your privacy is important to us. This page outlines the types of information we may collect and how it may be used.
 
 ## Information We Collect
 
@@ -32,4 +32,4 @@ We may link to other websites. We are not responsible for their content or priva
 
 ## Contact
 
-If you have questions about this policy, please [reach out here](https://tally.so/r/wakOD9).
+If you have questions about this policy, please [reach out here](https://tally.so/r/3qg0J7).
