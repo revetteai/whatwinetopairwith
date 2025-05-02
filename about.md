@@ -3,14 +3,14 @@ title: About
 layout: base.njk
 ---
 
-# About What To Eat With
+# About What Wine to Pair With
 
-Welcome to **What To Eat With** — your daily guide to perfect food pairings.
+Welcome to **What Wine to Pair With** — your daily guide to perfect wine pairings.
 
-Whether you're wondering what to serve with salmon, chili, or cinnamon rolls, we use AI to bring you simple, tasty ideas based on real cooking knowledge and reader trends.
+Whether you’re searching for the right wine for salmon, steak, or spicy dishes, we use AI to bring you smart, delicious pairing ideas based on expert knowledge and trending favorites.
 
-This site is 100% automated and updated daily. It was created by a fellow food lover to help busy people make better meals with less guesswork.
+This site is 100% automated and updated daily. It was created by a wine lover to help busy people choose the perfect bottle with less guesswork.
 
-Have a food you want us to cover? [Send it here.](https://tally.so/r/wakOD9)
+Have a dish or occasion you want us to cover? [Send it here.](https://tally.so/r/3qg0J7)
 
-Thanks for stopping by!
+Thanks for visiting!
