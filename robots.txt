@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://whatwinetopairwith.com/sitemap.xml
+Sitemap: https://www.whatwinetopairwith.com/sitemap.xml
