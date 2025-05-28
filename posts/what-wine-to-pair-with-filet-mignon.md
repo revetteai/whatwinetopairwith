@@ -2,6 +2,7 @@
 title: What Wine to Pair With Filet Mignon  
 description: Discover the best wine pairings for Filet Mignon, from bold reds to crisp whites.  
 date: 2025-05-28  
+layout: base.njk
 ---
 
 If you're searching for the best wine for Filet Mignon, look no further. This classic cut of beef deserves an equally impressive wine pairing. From robust reds to surprising whites, discover the perfect wine pairing for Filet Mignon.
