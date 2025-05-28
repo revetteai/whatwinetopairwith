@@ -173,9 +173,8 @@
 
 <main>
 {% if "/posts/" in page.url %}
-  {% set randomImage = images[Math.floor(Math.random() * images.length)] %}
+ <img src="/assets/images/{{ images.random }}" alt="Wine Art" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.06);" />
   <div style="text-align:center; margin-bottom:2rem;">
-    <img src="/images/{{ randomImage }}" alt="Wine Art" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.06);" />
   </div>
 <h1>{{ title }}</h1>
 {% endif %}
