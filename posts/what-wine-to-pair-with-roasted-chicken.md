@@ -2,6 +2,7 @@
 title: What Wine to Pair With Roasted Chicken  
 description: Discover the best wine pairings for Roasted Chicken, from bold reds to crisp whites.  
 date: 2025-05-28  
+layout: base.njk
 ---
 
 ![Wine Art](https://drive.google.com/uc?export=view&id=1fY_lgbvuTEnKaeVDACNvAtBGhAk4mrN8
