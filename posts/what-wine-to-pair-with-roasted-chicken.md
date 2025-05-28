@@ -5,7 +5,7 @@ date: 2025-05-28
 layout: base.njk
 ---
 
-![Wine Art](https://drive.google.com/uc?export=view&id=1fY_lgbvuTEnKaeVDACNvAtBGhAk4mrN8
+![Wine Art](https://drive.google.com/uc?export=view&id=1fY_lgbvuTEnKaeVDACNvAtBGhAk4mrN8)
 
 Looking for the best wine for Roasted Chicken? Uncover delightful wine pairing options that range from crisp whites to bold reds, perfect for enhancing the flavors of your favorite roasted dish.
 
