@@ -2,6 +2,7 @@
 title: What Wine to Pair With Grilled Salmon
 description: Discover the best wine pairings for Grilled Salmon, from bold reds to crisp whites.
 date: 2025-05-23
+layout: base.njk
 ---
 
 Finding the best wine for Grilled Salmon can elevate your dining experience. The right wine pairing for Grilled Salmon enhances its rich, smoky flavors, whether you're a fan of red or white varieties.
